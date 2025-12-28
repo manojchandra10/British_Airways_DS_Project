@@ -9,7 +9,7 @@ This project simulates a **Data Scientist role at British Airways**, focusing on
 
 ---
 - **Task 1**
-  - `WebScraping_and_Analysis.ipynb` – Scraping Skytrax reviews and performing sentiment analysis  
+  - `WebScraping_and_Analysis.ipynb` – Scraping British Airways reviews and performing sentiment analysis  
 
 - **Task 2**
   - `BA_Task_2_Predicting_Customer_Buying_Behavior.ipynb` – EDA and predictive modelling  
